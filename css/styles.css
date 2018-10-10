@@ -1,13 +1,20 @@
 body {
-  background-color: "#fefbd8"
+  background-color: #fefbd8;
 }
 
 h1 {
-  background-image: ""
+  background-image: url("../img/sad-cow.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  background-position: center;
+  padding: 50px;
+  text-align: center;
+  font-size: 75px;
 }
 
 .animal {
-  
+
 }
 
 #centered {
