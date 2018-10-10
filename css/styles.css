@@ -35,7 +35,7 @@ p {
 
 .animal h3 {
   text-align: center;
-  color:  #618685;
+  color: #618685;
   font-size: 24pt;
   margin: 5px;
 }
@@ -60,6 +60,7 @@ p {
     margin: 25px;
     background-color: white;
   }
+
   .animal {
     float: left;
     width: 50%;
