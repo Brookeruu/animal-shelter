@@ -13,15 +13,37 @@ h1 {
   font-size: 75px;
 }
 
+p {
+  text-align: center;
+}
+
 .animal {
+  float: left;
+  width: 20%;
 
 }
 
-#centered {
+.animal img {
+  width: 95%;
+  height: 250px;
+}
 
+.animal p {
+  text-align: justify;
+  width: 95%;
+  margin: 0px;
+}
+
+#intro {
+  font-style: italic;
+  font-size: 16pt;
 
 }
 
 .animal h3 {
+  text-align: center;
+  color:  #618685;
+  font-size: 24pt;
+  margin: 5px;
 
 }
